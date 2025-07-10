@@ -87,5 +87,5 @@ Want to improve this project? You can:
 
 ---
 
-**Crafted with care by [Nisarg Vekariya](https://github.com/nisargvekariya01/)**  
+**Crafted with care by [Nisarg Vekariya](https://github.com/nisargvekariya01)**  
 Happy coding! 🚀
