@@ -26,7 +26,7 @@ Welcome to the **Perfume Product Preview Card** project! This elegant and respon
 
 1. **Clone or Download** the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/nisargvekariya01/Product_Card_Preview/tree/main
    ```
 2. **Open `index.html`** in a web browser to view the product card.
 3. **Ensure the images** are in the `images/` folder relative to `index.html`.
