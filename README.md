@@ -64,22 +64,17 @@ Check out the live demo of the Perfume Product Preview Card [here](https://examp
 
 ## 🖼️ Screenshots
 
-**Desktop View**:
-<img src="preview.png" alt="Desktop Preview">
+**Desktop View**: <br>
+<img src="preview_desktop.png" alt="Desktop Preview" width=400px>
 
-**Mobile View**:
+**Mobile View**: <br>
+<img src="preview_mobile.png" alt="Mobile Preview"  width=200px>
 
 ---
 
 ## 🌟 Inspiration
 
 Inspired by modern e-commerce product cards, this project balances aesthetics and functionality, making it ideal for showcasing a single product with a focus on clean design and user engagement.
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License. Feel free to use, modify, and distribute it as you wish!
 
 ---
 
