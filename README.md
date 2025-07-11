@@ -36,7 +36,7 @@ Welcome to the **Perfume Product Preview Card** project! This elegant and respon
 
 ## 🌐 Live Demo
 
-Check out the live demo of the Perfume Product Preview Card [here](https://product-card-preview-nine.vercel.app/)! Explore the responsive design and interactive elements in action.
+Check out the live demo of the Perfume Product Preview Card [here](https://product-preview-card-nisarg07.netlify.app/)! Explore the responsive design and interactive elements in action.
 
 ---
 
